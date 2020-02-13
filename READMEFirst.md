@@ -8,3 +8,4 @@ CPP Project to tell the current bitcoin exchange rate.
 ### A Big Note ###
   Compiling Process: once you have installed CURL library then compile it by 
   `g++ --std=c++17 -o Bitcoin Bitcoin.cpp -lcurl` (CPP 17 is necessary) 
+  Once compiled then run `./Bitcoin` in terminal.
